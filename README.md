@@ -3,8 +3,7 @@
 Este projeto realiza a predição do preço do Bitcoin com base em dados históricos, utilizando um modelo de regressão linear e otimização por descida de gradiente.
 
 ## Integrantes:
-Carlos Hernani
-Mateus Porto
+Carlos Hernani e Mateus Porto
 
 ## Estrutura do Projeto
 
